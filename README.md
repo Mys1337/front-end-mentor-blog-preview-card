@@ -16,7 +16,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/frontendmentorblogpreviewcard-using-html-and-css-KelQf6X1Eh](https://www.frontendmentor.io/solutions/frontendmentorblogpreviewcard-using-html-and-css-KelQf6X1Eh)
 - Live Site URL: [https://mysfront-end-mentor-blog-preview-card.netlify.app/](https://mysfront-end-mentor-blog-preview-card.netlify.app/)
 
 ### Built with
